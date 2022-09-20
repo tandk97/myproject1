@@ -8,7 +8,7 @@
         </tr>
         <tr>
             <td>웹 서비스 개발 수업</td>
-            <td>HTML, JAVA</td>
+            <td>HTML, JAVA 등</td>
             <td>2022/09/19~2023/01/26</td>
         </tr>
     </table>
